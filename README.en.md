@@ -65,6 +65,19 @@ More specifically, why would you ask me for a _Word_ resume? This format
 has the unpleasant particularity to me editable. Why, oh why would you
 make changes to my resume?
 
+## That nice Sunday night e-mail
+
+You're right: I might be more receptive to your e-mail, comfortably chilling
+on my sofa, on a Sunday night. At least, you can expect me to be less
+sollicited and more available. And I may even read it! But what is the
+Dark Side of this e-mail?
+
+This e-mail (even if automatically sent) suggests that _you_ are working
+on a Sunday night. I may interpret easily that is a common practice in
+this comopany.
+
+I hope that you don't advertize a great work/life balance in it!
+
 # Useful links
 
 * TODO

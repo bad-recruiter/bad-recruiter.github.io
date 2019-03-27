@@ -64,6 +64,17 @@ directement ?
 Et plus spécifiquement, pourquoi me demandez-vous un CV _au format Word_ ? Ce format a la mauvaise
 particularité d'être modifiable. Pourquelle raison voudriez-vous modifier mon CV ?
 
+## Le petit e-mail du dimanche soir
+
+Effectivement, je suis peut-être plus réceptif à votre e-mail le dimanche soir dans mon canapé. Ou en
+tout cas, moins sollicité donc plus disponible. Peut-être même vais-je le lire. Mais quel est le
+revers de cet e-mail ?
+
+Cet e-mail (même si son envoi en en réalité automatisé) suggère que vous, vous travaillez le dimanche
+soir. Le risque que j'interprète qu'il s'agit d'une pratique courante dans l'entreprise est grand.
+
+J'espère que vous n'y vantez pas un excellent équilibre travail / vie privée !
+
 # Quelques références utiles
 
 * TODO

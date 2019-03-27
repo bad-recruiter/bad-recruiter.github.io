@@ -15,7 +15,7 @@ d'approche.
 
 > Bonjour,
 >
-> Je recrute pour un client final leader se son marché.
+> Je recrute pour un client final leader de son marché.
 > Êtes-vous intéressé pour tenter une nouvelle aventure ?
 
 Ce type de message vous évoque quelque chose ? S'il s'agit de votre message d'approche, il est cruellement
@@ -64,7 +64,7 @@ vaudra une réponse ?
 ## Le CV au format Word
 
 Lorsque vous me contactez sur LinkedIn, pourquoi me demander un CV ? Quelles informations supplémentaires
-espérez-vous y trouver ? S'il vous manque quelque chose, qu'est-ce fait que vous ne me le demandez pas
+espérez-vous y trouver ? S'il vous manque quelque chose, qu'est-ce qui fait que vous ne me le demandez pas
 directement ?
 
 Et plus spécifiquement, pourquoi me demandez-vous un CV _au format Word_ ? Ce format a la mauvaise
@@ -76,7 +76,7 @@ Effectivement, je suis peut-être plus réceptif à votre e-mail le dimanche soi
 tout cas, moins sollicité donc plus disponible. Peut-être même vais-je le lire. Mais quel est le
 revers de cet e-mail ?
 
-Cet e-mail (même si son envoi en en réalité automatisé) suggère que vous, vous travaillez le dimanche
+Cet e-mail (même si son envoi est en réalité automatisé) suggère que vous, vous travaillez le dimanche
 soir. Le risque que j'interprète qu'il s'agit d'une pratique courante dans l'entreprise est grand.
 
 J'espère que vous n'y vantez pas un excellent équilibre travail / vie privée !

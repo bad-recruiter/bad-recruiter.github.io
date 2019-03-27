@@ -24,6 +24,12 @@ générique :
 * il ne dit rien de l'entreprise pour laquelle vous recrutez ;
 * il ne dit pas pourquoi vous souhaite me recruter (pourquoi moi ?).
 
+Si vous avez commencé votre message par
+
+> Bonjour ${PRENOM}
+
+vous pouvez imaginer que nous ne partons pas du bon pied.
+
 ## Je ne suis pas la personne que vous cherchez
 
 Avez-vous vérifié l'intitulé de mon poste actuel ?

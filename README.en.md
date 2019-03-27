@@ -22,6 +22,12 @@ contact me, it is sadly generic:
 * it says nothing about the company you are recruiting for;
 * it says nothing about the reason you would recruit me (why me?).
 
+If your message starts by
+
+> Hello ${FIRSTNAME}
+
+you can easily guess that it is not a good start.
+
 ## I am not the person you are looking for
 
 Did you check my current position?

@@ -53,6 +53,17 @@ Contrairement à moi, LinkedIn a de la mémoire. Lorsque vous m'écrivez et que 
 strict _même_ message juste au dessus, qu'est-ce qui vous fait croire qu'en envoyer une nouvelle copie vous
 vaudra une réponse ?
 
+# Remarques en passant
+
+## Le CV au format Word
+
+Lorsque vous me contactez sur LinkedIn, pourquoi me demander un CV ? Quelles informations supplémentaires
+espérez-vous y trouver ? S'il vous manque quelque chose, qu'est-ce fait que vous ne me le demandez pas
+directement ?
+
+Et plus spécifiquement, pourquoi me demandez-vous un CV _au format Word_ ? Ce format a la mauvaise
+particularité d'être modifiable. Pourquelle raison voudriez-vous modifier mon CV ?
+
 # Quelques références utiles
 
 * TODO

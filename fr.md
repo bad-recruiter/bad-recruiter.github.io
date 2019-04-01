@@ -85,3 +85,7 @@ J'espère que vous n'y vantez pas un excellent équilibre travail / vie privée 
 # Quelques références utiles
 
 * [Chers recruteurs](https://brice.coquereau.fr/2019/02/19/fr/chers-recruteurs/), par Brice Coquereau
+
+---
+
+[Accueil](/)

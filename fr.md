@@ -28,7 +28,8 @@ Si vous avez commencé votre message par
 
 > Bonjour ${PRENOM}
 
-vous pouvez imaginer que nous ne partons pas du bon pied.
+vous pouvez imaginer que nous ne partons pas du bon pied, au même titre que si vous vous trompez de
+prénom.
 
 ## Je ne suis pas la personne que vous cherchez
 

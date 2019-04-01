@@ -26,7 +26,8 @@ If your message starts by
 
 > Hello ${FIRSTNAME}
 
-you can easily guess that it is not a good start.
+you can easily guess that it is not a good start, the same as when you don't use my firstname but
+someone else's one.
 
 ## I am not the person you are looking for
 

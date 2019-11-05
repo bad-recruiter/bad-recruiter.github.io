@@ -60,6 +60,15 @@ Contrairement à moi, LinkedIn a de la mémoire. Lorsque vous m'écrivez et que 
 strict _même_ message juste au dessus, qu'est-ce qui vous fait croire qu'en envoyer une nouvelle copie vous
 vaudra une réponse ?
 
+## Vous me présentez des obligations légales commes des avantages
+
+RTT, mutuelle, remboursement de 50% de la carte de transports : tous les salariés de toutes les entreprises
+respectant le droit du travail en bénéficient. Qu'espérez-vous en les mettant en avant ?
+
+Cela montre que l'entreprise ne propose aucun avantage. Ça n'est pas nécessairement un souci, chacun fait
+en fonction de ses moyens et de ses priorités. L'honnêteté intellectuelle ne coûte rien : autant en 
+profiter ! En attendant, avec une telle proposition, je peux facilement me sentir pris pour un·e imbécile.
+
 # Remarques en passant
 
 ## Le CV au format Word

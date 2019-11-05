@@ -38,7 +38,9 @@ Avez-vous vérifié l'intitulé de mon poste actuel ?
 En me décrivant un poste qui ne correspond ni à ce que je fais aujourd'hui ni à ce que je recherche, les
 chances pour que je m'intéresse à votre proposition sont infimes.
 
-## Ce n'est pas moi que vous contactez ([`#lapersonnalisationbordel`](https://twitter.com/hashtag/lapersonnalisationbordel))
+## Ce n'est pas moi que vous contactez 
+
+[`#lapersonnalisationbordel`](https://twitter.com/hashtag/lapersonnalisationbordel)
 
 Qu'est-ce qui fait que votre message s'addresse plus à moi qu'à n'importe quelle autre personne faisant
 vaguement un métier similaire au mien ?
